@@ -1,14 +1,13 @@
 # Analysis of Galaxy Evolution
 
 GalaxyEvolution is a python package that calculates the evolution in
-stellar mass of galaxies embedded in dark matter haloes of given mass M200
+stellar mass of galaxies embedded in dark matter haloes of mass M200
 at redshift z. For the halo assembly history I recommend the use of the 
 commah package (Correa et al. 2015c).
 
 # Installing
 
-To get started using the package you need to set up a python virtual 
-environment. The steps are as follows:
+To get started set up a python virtual environment. The steps are as follows:
 
 Clone GalaxyEvolution
 
@@ -31,7 +30,7 @@ Now activate the virtual environment.
 Due to irregularities with the latests updates of the cosmolopy 
 package I recommend installing commah via conda.
 
-If you do not have anaconda install miniconda : 
+If you do not have anaconda, install miniconda : 
 
 https://docs.anaconda.com/free/miniconda/index.html
 
